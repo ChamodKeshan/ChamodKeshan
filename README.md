@@ -7,7 +7,7 @@
 
 
    
-   # [සිංහල](https://github.com/ChamodKeshan/ChamodKeshan/language.menu/SI)
+   # [සිංහල](https://github.com/ChamodKeshan/ChamodKeshan/tree/master/Language.menu/SI)
    
    
    
@@ -15,4 +15,4 @@
    
    
    
-   # [தமிழ்](https://github.com/ChamodKeshan/ChamodKeshan/tree/master/Language.menu/தமிழ்)
+   # [தமிழ்](https://github.com/ChamodKeshan/ChamodKeshan/tree/master/Language.menu/TAMIL)
