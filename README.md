@@ -60,9 +60,9 @@
 
 <br> 
  
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/ChamodKeshan/langs?time_range=one_day&theme=bright_lights)](https://githubtrends.io)</p>
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/ChamodKeshan/langs?time_range=one_year&theme=bright_lights)](https://githubtrends.io)</p>
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/ChamodKeshan/repos?time_range=one_day&theme=ferns)](https://githubtrends.io)
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/ChamodKeshan/repos?time_range=one_year&theme=ferns)](https://githubtrends.io)
  
 <br>
   
