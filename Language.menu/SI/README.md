@@ -36,10 +36,10 @@
 
 
 
-<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ChamodKeshan&show_icons=true&locale=en&layout=compact&theme=radical" alt="Hiruwa" /></p>
+<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ChamodKeshan&show_icons=true&locale=en&layout=compact&theme=radical" alt="ChamodKeshan"/></p>
 
  
- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ChamodKeshan&theme=radical" alt="Hiruwa" /></p>
+ <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ChamodKeshan&theme=radical" alt="ChamodKeshan" /></p>
  
  <br />
  
