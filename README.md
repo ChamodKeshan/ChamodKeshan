@@ -57,10 +57,9 @@
 
 <br> 
  
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/ChamodKeshan/langs?time_range=one_year&theme=bright_lights)](https://githubtrends.io)</p>
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/ChamodKeshan/langs?time_range=one_year&loc_metric=changed&compact=True&theme=dark)](https://githubtrends.io)</p>
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/ChamodKeshan/repos?time_range=one_year&theme=ferns)](https://githubtrends.io)
- 
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/ChamodKeshan/repos?time_range=one_year&include_private=True&loc_metric=changed&theme=synthwaves)](https://githubtrends.io)
 <br>
   
 # EXPECT SOMETHING UNEXPECTED !
