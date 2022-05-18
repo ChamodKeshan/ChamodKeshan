@@ -1,6 +1,7 @@
 ### Hi there 👋
 # I AM Chamod Keshan 
 
+![Metrics](https://avatars.githubusercontent.com/u/98629920?v=4)
 
 # NOT READY MY PROFILE
 
