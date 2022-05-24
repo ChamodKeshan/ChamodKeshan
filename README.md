@@ -1,6 +1,6 @@
-### Hi there👋
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
 
-# I AM Chamod Keshan 
+# I AM [Chamod Keshan](https://github.com/ChamodKeshan) 
 
 ![Metrics](https://avatars.githubusercontent.com/u/98629920?v=4)
 
