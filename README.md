@@ -36,9 +36,10 @@
 <p align="center">
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FChamodKeshan&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 <br>
-<img align="center" alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=isuruwa-admin" />
+<img align="center" alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=ChamodKeshan-admin"/></a>
+<br>
+<img src="https://img.shields.io/github/followers/ChamodKeshan?label=Follow%20Me&style=social"]"https://github.com/ChamodKeshan"
 </p>
-
 
 <p align="center"<a
 <a href="https://github.com/ChamodKeshan/Hashzi-X" ><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ChamodKeshan&repo=Hashzi-X&theme=chartreuse-dark"></a>
