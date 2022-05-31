@@ -4,7 +4,6 @@
 
 ![Metrics](https://avatars.githubusercontent.com/u/98629920?v=4)
 
-# NOT READY MY PROFILE
 
 ### PLEASE SELECT YOU LANGUAGE TO CONTINUE
 
@@ -31,7 +30,8 @@
 <br>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=ChamodKeshan&show_icons=true&theme=cobalt">
-</p>
+</a>
+<img src="http://github-readme-streak-stats.herokuapp.com?user=ChamodKeshan&https://git.io/streak-stats">
 
 <p align="center">
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FChamodKeshan&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
@@ -52,12 +52,6 @@
 # DONATE ME VIA :
   
 <a href="https://www.buymeacoffee.com/ChamodKeshan"><img src="https://img.icons8.com/color-glass/64/000000/coffee.png"/>
-
-# Join Group For Updates :
-  
-<a href="https://t.me/" > <img src="https://img.icons8.com/cute-clipart/80/000000/telegram-app.png"/> 
-
-<br> 
  
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/ChamodKeshan/langs?time_range=one_year&loc_metric=changed&compact=True&theme=dark)](https://githubtrends.io)</p>
 
