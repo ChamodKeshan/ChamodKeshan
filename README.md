@@ -38,10 +38,12 @@
 <br>
 <img align="center" alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=ChamodKeshan-admin"/></a>
 <br>
-<img src="https://img.shields.io/github/followers/ChamodKeshan?label=Follow%20Me&style=social"]"https://github.com/ChamodKeshan"
-</p>
-<img src="https://komarev.com/ghpvc/?username=ChamodKeshan&color=111111">  
-<p align="center">
+<a name=ChamodKeshan&label=VIEWS&style=flat-square&color=orange" />
+  <a href="https://github.com/ChamodKeshan"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" />                                                                                                    <img src="https://img.shields.io/github/followers/ChamodKeshan?label=Follow%20Me&style=social"]"https://github.com/ChamodKeshan" />
+<img src="https://komarev.com/ghpvc/?username=ChamodKeshan&color=111111"
+</a>
+<br>                                                                      
+<a href="https://m.youtube.com/channel/UC1iJioWuuwrHS6EhtOB4Hwg"><img src="https://img.shields.io/youtube/channel/subscribers/UC1iJioWuuwrHS6EhtOB4Hwg?style=social" /> <br>
 
 <p align="center"<a
 <a href="https://github.com/ChamodKeshan/QueenAlexa" ><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ChamodKeshan&repo=QueenAlexa&theme=chartreuse-dark"></a>
