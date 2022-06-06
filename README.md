@@ -1,8 +1,8 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
+### Hi there👋
 
 # I AM [Chamod Keshan](https://github.com/ChamodKeshan) 
-
-![Metrics](https://avatars.githubusercontent.com/u/98629920?v=4)
+   
+   ![Metrics](https://avatars.githubusercontent.com/u/98629920?v=4)
 
 
 ### PLEASE SELECT YOU LANGUAGE TO CONTINUE
@@ -49,17 +49,13 @@
 <a href="https://github.com/ChamodKeshan/QueenAlexa" ><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ChamodKeshan&repo=QueenAlexa&theme=chartreuse-dark"></a>
 <a href="https://github.com/ChamodKeshan/Queen-Alexa" ><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ChamodKeshan&repo=Queen-Alexa&theme=chartreuse-dark"></a> <a href="https://github.com/chamodkeshan/booster-queena" ><a href="https://github.com/ChamodKeshan/booster-queena" >
 <a href="https://github.com/ChamodKeshan/booster-queena" ><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ChamodKeshan&repo=booster-queena&theme=chartreuse-dark"></a> 
+ <br>
+ <br>
 
-  <br>
-  <br>
-  
-# DONATE ME VIA :
-  
-<a href="https://www.buymeacoffee.com/ChamodKeshan"><img src="https://img.icons8.com/color-glass/64/000000/coffee.png"/>
- 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/ChamodKeshan/langs?time_range=one_year&loc_metric=changed&compact=True&theme=dark)](https://githubtrends.io)</p>
+# ***LANGUAGE USE***
 
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/ChamodKeshan/repos?time_range=one_year&include_private=True&loc_metric=changed&theme=synthwaves)](https://githubtrends.io)
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/ChamodKeshan/langs?time_range=one_year&loc_metric=changed&compact=True&theme=dark)](https://githubtrends.io)
 <br>
   
 # EXPECT SOMETHING UNEXPECTED !
@@ -67,15 +63,10 @@
    
    ****I am create game and mod game.2023 release with my frist game apk.to late with year.****
    ****I am create app and mod apk****
-
+# DONATE ME VIA :
+  
+<a href="https://www.buymeacoffee.com/ChamodKeshan"><img src="https://img.icons8.com/color-glass/64/000000/coffee.png"/>
  
- # YOU FOLLOW ME
-   ````test
-   follow me.you can my activities alert waching
-   ````
-   
-   
-   
-   # YOU WATCHING MY ACTIVITIES.🔗THANKS FOR YOU.
+# YOU WATCHING MY ACTIVITIES.🔗THANKS FOR YOU.
 
 <img src="https://c.tenor.com/-169fSymeTgAAAAi/anime-girl.gif" width="100">
